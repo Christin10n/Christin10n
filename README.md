@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm student
+I'm an it student
 
 <!--
 **Christin10n/Christin10n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
